@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    
+   /* background-color: black;*/
+}
+
+.background {
+    background-image: url(SleekBG.PNG);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    }
+
+.btn {
+    position: absolute;
+    top: 75%; 
+    left: 48%;
+    background-color:#42f495;
+    border: 2px solid #42f495;
+    color: black;
+    }
